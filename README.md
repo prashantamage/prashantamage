@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-Stack Developer | Code Magician | Problem Solver<br><br>When I'm not developing, I'm either  exploring the outdoors, <br>or trying (and failing) to perfect SOMETHING;<br><br>I'm a passionate Full-Stack Developer with a love for building creative, <br>user-friendly :-D;<br>
+Full Stack Developer | Web Development | On-Site Implementations | Java | Node JS | Angular | Banking Solutions <br><br>When I'm not developing, I'm either  exploring the outdoors, <br>or trying (and failing) to perfect SOMETHING;<br><br>I'm a passionate Full-Stack Developer with a love for building creative, <br>user-friendly :-D;<br>
 
 
 ## 🌐 Socials:
